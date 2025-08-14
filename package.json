@@ -140,7 +140,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/themesberg/flowbite-svelte.git"
+    "url": "git+https://github.com/webfishdotcom/flowbite-svelte.git"
   },
   "dependencies": {
     "@floating-ui/dom": "^1.7.3",
