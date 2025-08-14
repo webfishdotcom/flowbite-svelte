@@ -1,5 +1,5 @@
 {
-  "name": "flowbite-svelte",
+  "name": "@webfishdotcom/flowbite-svelte",
   "version": "1.12.3",
   "description": "Flowbite components for Svelte",
   "main": "dist/index.js",
